@@ -1,4 +1,5 @@
 ### Hi there 👋
+Contrary to popular belief, I am not a PHP developer.
 
 <!--
 **BarneyCampbell/barneycampbell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
