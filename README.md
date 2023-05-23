@@ -1,18 +1,18 @@
-### Hi there 👋
+# Hi there 👋
 Final year (two exams to go!) Computer Science student with an interest in Data Science.
 
-#### Working on:
+## Working on:
 - Exams
 - An implementation of RSA in Haskell λ
 - A text interpreter that allows for simple generation of static HTML sites
 - [My portfolio website][1]
 
-#### Languages and Technologies
+## Languages and Technologies
 - Haskell whenever I can justify it 
 - C#/.NET
 - C
 
-#### Final Year Project - Racetrack algorithms
+## Final Year Project - Racetrack algorithms
 
 - Built using JavaScript and hosted with Google cloud service Firebase
 - [Playable here][2]
