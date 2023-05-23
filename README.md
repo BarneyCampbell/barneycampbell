@@ -7,14 +7,13 @@ Final year (two exams to go!) Computer Science student with an interest in Data 
 - A text interpreter that allows for simple generation of static HTML sites
 - [My portfolio website][1]
 
-<details>
-  <summary>Final Year Project - Racetrack algorithms</summary>
-  <ul>
-    <li>Built using JavaScript and hosted with Google cloud service Firebase</li>
-    <li>[Playable here][2]</li>
-    <li>I used a bunch of skills from throughout my Uni career, but my favourite was recursive tree searching</li>
-  </ul>
-</details>
+
+#### Final Year Project - Racetrack algorithms
+
+- Built using JavaScript and hosted with Google cloud service Firebase
+- [Playable here][2]
+- I used a bunch of skills from throughout my Uni career, but my favourite was recursive tree searching
+
 
 <!--
 **BarneyCampbell/barneycampbell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
