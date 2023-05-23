@@ -7,6 +7,10 @@ Final year (two exams to go!) Computer Science student with an interest in Data 
 - A text interpreter that allows for simple generation of static HTML sites
 - [My portfolio website][1]
 
+#### Languages and Technologies
+- Haskell whenever I can justify it 
+- C#/.NET
+- C
 
 #### Final Year Project - Racetrack algorithms
 
