@@ -9,9 +9,11 @@ Final year (two exams to go!) Computer Science student with an interest in Data 
 
 <details>
   <summary>Final Year Project - Racetrack algorithms</summary>
-  - Built using JavaScript and hosted with Google cloud service Firebase
-  - [Playable here][2]
-  - I used a bunch of skills from throughout my Uni career, but my favourite was recursive tree searching
+  <ul>
+    <li>Built using JavaScript and hosted with Google cloud service Firebase</li>
+    <li>[Playable here][2]</li>
+    <li>I used a bunch of skills from throughout my Uni career, but my favourite was recursive tree searching</li>
+  </ul>
 </details>
 
 <!--
