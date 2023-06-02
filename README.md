@@ -1,5 +1,5 @@
 # Hi there 👋
-Final year (two exams to go!) Computer Science student with an interest in Data Science.
+Computer Science student (awaiting grauation) with an interest in Data Science.
 
 ## Working on:
 - Exams
