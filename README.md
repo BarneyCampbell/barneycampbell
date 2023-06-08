@@ -10,7 +10,7 @@ Computer Science student (awaiting grauation) with an interest in Data Science.
 ## Languages and Technologies
 - Haskell whenever I can justify it 
 - C#/.NET
-- C
+- Rust
 
 ## Final Year Project - Racetrack algorithms
 
