@@ -2,15 +2,14 @@
 Computer Science student (awaiting grauation) with an interest in Data Science.
 
 ## Working on:
-- Exams
-- An implementation of RSA in Haskell λ
-- A text interpreter that allows for simple generation of static HTML sites
+- A To Do app as the first installment of my productivity suite
 - [My portfolio website][1]
+- Some day I'll remake the final year project ;)
 
 ## Languages and Technologies
-- Haskell whenever I can justify it 
-- C#/.NET
 - Rust
+- C#/.NET
+- React
 
 ## Final Year Project - Racetrack algorithms
 
