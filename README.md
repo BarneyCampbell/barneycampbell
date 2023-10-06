@@ -1,5 +1,5 @@
 # Hi there 👋
-Computer Science student (awaiting grauation) with an interest in Data Science.
+Computer Science graduate (First). Professionally .NET, spiritually haskell.
 
 ## Working on:
 - A To Do app as the first installment of my productivity suite
