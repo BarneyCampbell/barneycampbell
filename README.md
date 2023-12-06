@@ -7,9 +7,10 @@ Computer Science graduate (First). Professionally .NET, spiritually haskell.
 - Some day I'll remake the final year project ;)
 
 ## Languages and Technologies
-- Rust
-- C#/.NET
-- React
+- Rust <img width="15" height="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
+- Zig <img width="15" height="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original.svg" />
+- Elm <img width="15" height="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elm/elm-original.svg" />
+- C#/.NET <img width="15" height="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 
 ## Final Year Project - Racetrack algorithms
 
