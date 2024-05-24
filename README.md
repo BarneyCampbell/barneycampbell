@@ -7,8 +7,8 @@ Computer Science graduate (First). Professionally .NET, spiritually haskell.
 - Some day I'll remake the final year project ;)
 
 ## Languages and Technologies
-- Rust <img width="15" height="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
-- Zig <img width="15" height="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original.svg" />
+- Rust <img width="15" height="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
+- Go <img width="20" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
 - Elm <img width="15" height="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elm/elm-original.svg" />
 - C#/.NET <img width="15" height="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 
